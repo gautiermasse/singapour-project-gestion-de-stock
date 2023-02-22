@@ -14,8 +14,6 @@ public class SingapourProjectKafkaApplication {
         KafkaConfig kak = new KafkaConfig();
         kak.concurrentKafkaListenerContainerFactory();
 
-        // Creation du controller
-
     }
 
 }
